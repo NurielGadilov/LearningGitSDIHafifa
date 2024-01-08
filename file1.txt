@@ -3,4 +3,4 @@ world
 this happend in the new branch
 hi eldad
 new string added
- 
+ newThing
